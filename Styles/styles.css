@@ -1,0 +1,14 @@
+.productTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.productTable th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.productTable td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
